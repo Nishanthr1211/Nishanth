@@ -1,0 +1,11 @@
+import tkinter
+color('red')
+begin_fill()
+pensize(2)
+left(100)
+forward(140)
+circle(100,250)
+right(140)
+circle(100,250)
+forward(140)
+end_fill()
