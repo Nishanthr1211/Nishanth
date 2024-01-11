@@ -1,4 +1,4 @@
-c from tkinter import*
+from tkinter import*
 import random
 
 wd=Tk()
